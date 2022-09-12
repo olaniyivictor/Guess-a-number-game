@@ -8,3 +8,6 @@ in which the score is 20 so if the user guess a number and keeps checking it wit
 give a message that 'You lost the game'.I also implemented the 'again' button  and also 'Highscore'which keep the value of the highscore.So if the user guess the random number 
 correctly,the backGroundColor will change to Green and give a message 'Correct Number!'.
 This is also one of the projects I made in Jonas Schmedtmann(The Complete Javascript Course 2022:From Zero to Experts)
+
+<img width="956" alt="Screenshot 2022-09-13 065039" src="https://user-images.githubusercontent.com/107210370/189774775-7fb21444-ebca-4da0-8158-f42a322b6535.png">
+
